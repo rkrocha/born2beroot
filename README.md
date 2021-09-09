@@ -7,7 +7,7 @@
   <h3 align="center">born2beroot</h3>
 
   <p align="center">
-    This system administration related exercise.
+    This is a system administration related exercise.
     <br/>
     <br/>
   </p>
